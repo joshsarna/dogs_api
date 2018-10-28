@@ -1,0 +1,1 @@
+json.message_from_brian @dog_type
